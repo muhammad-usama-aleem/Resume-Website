@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/file/d/1veJkd1dk-YjoH0eUuSkRRI_sgd7PWm9d/view?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -120,7 +120,7 @@ export const links = {
 	cards: [
 		{
 			title: "My website",
-			link: "https://hashirshoaeb.com/",
+			link: "https://muhammad-usama-aleem.netlify.app/",
 		},
 		{
 			title: "My Kaggle",
