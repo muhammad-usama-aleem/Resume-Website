@@ -37,7 +37,7 @@ export default function Home() {
         description={contact.description}
         buttons={contact.buttons}
       />
-      <Footer />
+      {/* <Footer /> */}
     </Fragment>
   );
 }
