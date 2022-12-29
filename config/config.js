@@ -46,7 +46,7 @@ export const about = {
 	title: "Who I am",
 	description: [
 		"I graduated from National University of Sciences and Technology (NUST) in 2022 with a degree in Mechatronics Engineering. I kick started my professional career as a Machine Learning Engineer working in 99Technologies.ai for a US based company — SJComputers.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I like to help community by answering at stackoverflow and have earned some reputation. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech.",
+		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I like to help community by answering at stackoverflow and have earned some reputation. I opensource my code - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech.",
 		"When I am not programming, I focus on learning about new technologies using online lectures from reputable universities like MIT, Stadford, and NYU"
 	],
 }
